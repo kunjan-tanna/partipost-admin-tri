@@ -1,0 +1,600 @@
+@media (max-width: 1023px) {
+  .newUser {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #2d3f62;
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .dashboardChart canvas {
+    width: 200px !important;
+    height: 200px !important;
+  }
+  .merchantsListLi ul li {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .border-btn {
+    padding: 10px 12px;
+  }
+  .campaignsName h2 {
+    font-size: 16px;
+  }
+  .merchantsCampaigns li {
+    padding: 13px 15px 15px 15px;
+  }
+  .defaultForm {
+    padding: 42px 15px 35px;
+  }
+  .commonSocial ul li {
+    margin: 0 6px;
+  }
+  .commonSocial ul li.topRate {
+    margin-left: 12px;
+  }
+  .createTaskContent {
+    padding: 24px;
+  }
+  .postedDetailRight {
+    padding: 0 0 0 30px;
+  }
+  .postedDetail {
+    padding: 8px;
+  }
+}
+
+@media (max-width: 767px) {
+  .dashboard h1 {
+    margin-bottom: 20px;
+  }
+  .col-div-4 {
+    margin-bottom: 20px;
+  }
+  .merchantsListLi {
+    text-align: center;
+  }
+  .search-outer {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  .merchantImg {
+    margin: 0 auto 10px;
+  }
+  .merchantName {
+    padding: 0;
+  }
+  .merchantBox {
+    margin-bottom: 15px;
+  }
+  .mainTitle h1 {
+    text-align: center;
+  }
+  .breadcrumbTop li {
+    font-size: 14px;
+  }
+  .breadcrumbTop {
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+  }
+  .border-round-btn {
+    padding: 9px 20px;
+  }
+  .campaignsImg {
+    margin: 0 auto;
+  }
+  .campaignsName {
+    padding-left: 0;
+    margin-top: 10px;
+  }
+  .merchantBox {
+    text-align: center;
+  }
+  .campaignsName span {
+    display: inline-block;
+  }
+  .merchantsBtn {
+    margin-bottom: 10px;
+  }
+  .border-btn {
+    width: 100%;
+  }
+  .dateOuter .ant-picker-input > input,
+  .defaultForm label,
+  .defaultForm .form-control {
+    font-size: 14px;
+  }
+  .defaultForm textarea.form-control {
+    padding: 10px 15px;
+  }
+  .defaultForm .form-control,
+  .dateOuter .ant-picker {
+    padding: 0 15px;
+  }
+  .formBtn .btn-default-blue {
+    min-width: 110px;
+    height: 45px;
+  }
+  .formBtn {
+    justify-content: center;
+  }
+  header {
+    padding: 20px 0;
+  }
+  .campaignHead {
+    flex-direction: column;
+    align-items: center;
+  }
+  .customPagination {
+    margin-top: 10px;
+  }
+  .campaignListItem {
+    padding: 16px;
+  }
+  .commonSocial ul li,
+  .commonSocial ul li.topRate {
+    margin: 0 4px;
+  }
+  .instagramFollowers span {
+    margin: 10px 0 0 0;
+    padding: 0px;
+    font-size: 15px;
+  }
+  .campaignList-btn {
+    padding-right: 0px;
+    justify-content: center;
+  }
+  .campaignList-btn .btn {
+    min-width: 120px;
+    padding: 6px 12px;
+  }
+  .campaignList-btn .btn + .btn {
+    margin-left: 10px;
+  }
+  .taskview-content {
+    padding: 20px;
+  }
+  .custom-tabs.ant-tabs {
+    padding-left: 0;
+    margin-top: 20px;
+  }
+  .taskview-content .rate-followers-detail .rate-followers li {
+    margin-right: 16px;
+  }
+  .rate-followers li span {
+    font-size: 15px;
+  }
+  .rate-followers li label {
+    font-size: 13px;
+    margin: 0px;
+  }
+  .taskview-content .rate-followers-detail .rate-followers li:last-child {
+    margin-right: 0;
+  }
+  .custom-tabs.ant-tabs .ant-tabs-nav {
+    margin-bottom: 20px;
+  }
+  .postItem .post-title {
+    line-height: normal;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .postItem .post-detail {
+    padding: 20px;
+  }
+  .post-detail .post-picture {
+    height: auto;
+  }
+  .post-detail .post-disc {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .post-detail .post-disc p {
+    font-size: 12px;
+    line-height: normal;
+  }
+  .post-detail .post-buttons {
+    flex-wrap: wrap;
+    padding-right: 0;
+  }
+  .btn-transparent {
+    min-width: 160px;
+    height: 40px;
+  }
+  .postItem {
+    margin-bottom: 40px;
+  }
+  .custom-tabs .ant-tabs-tab-btn {
+    font-size: 14px;
+  }
+  .custom-tabs .ant-tabs-ink-bar {
+    min-width: inherit;
+  }
+  .custom-tabs .ant-tabs-tab + .ant-tabs-tab {
+    margin-left: 32px;
+  }
+  .campaign-title {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .commonSocial ul li img {
+    max-height: 20px;
+  }
+  .commonSocial ul li.topRate a {
+    font-size: 14px;
+  }
+  .commonSocial {
+    justify-content: center;
+  }
+  .campaignJobLeft {
+    padding-left: 0px;
+  }
+  .campaignJobLeft h5,
+  .campaignJobLeft p {
+    font-size: 15px;
+  }
+  .campaignList {
+    padding-bottom: 20px;
+  }
+  .topRated-full {
+    font-size: 14px;
+  }
+  .rated-user-detail h3 {
+    font-size: 20px;
+  }
+  .rated-user-detail p {
+    font-size: 14px;
+  }
+  .rated-user-profile .rated-user {
+    margin-right: 10px;
+  }
+  .rate-followers-detail .commonSocial ul {
+    top: auto;
+  }
+  .postItem.step2 .post-detail {
+    padding: 20px;
+  }
+  .post-url {
+    padding: 10px;
+    font-size: 12px;
+  }
+  .influencerHead h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .influencerContent {
+    margin-top: 20px;
+    padding-top: 20px;
+  }
+  .influencerHead p {
+    font-size: 13px;
+    line-height: normal;
+  }
+  .influencerHistory .custom-tabs .ant-tabs-tab-btn {
+    font-size: 13px;
+  }
+  .influencerHistory .ant-tabs-tab + .ant-tabs-tab {
+    margin-left: 15px;
+  }
+  .historyList li {
+    padding-bottom: 15px;
+  }
+  .historyList li h4 {
+    font-size: 13px;
+    line-height: normal;
+  }
+  .historyList li .rating-date .ratingOf {
+    margin: 0 6px;
+  }
+  .influencer-view .taskview-content {
+    padding: 20px;
+  }
+  .listingFilter {
+    flex-direction: column;
+  }
+  .listingFilter .listingFilterRight {
+    flex-direction: column;
+    width: 100%;
+  }
+  .listingFilter .listingFilterRight .customSelect {
+    width: 100%;
+  }
+  .listingFilter .customSelect .ant-select {
+    width: 100% !important;
+  }
+  .listingFilter .filterSearch {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 10px;
+    height: 40px;
+  }
+  .listingFilter h3 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  .listingTable .table thead th,
+  .listingTable .table tbody td {
+    font-size: 14px;
+  }
+  .customPagination li,
+  .customPagination li a {
+    font-size: 15px;
+  }
+  .listingTable {
+    margin-top: 20px;
+  }
+  .listingFilter
+    .ant-select-single:not(.ant-select-customize-input)
+    .ant-select-selector {
+    height: 40px;
+  }
+  .listingFilter
+    .ant-select-single
+    .ant-select-selector
+    .ant-select-selection-item {
+    line-height: 40px;
+  }
+  .userPicture {
+    margin-right: 20px;
+  }
+  .user-profile .userName {
+    font-size: 15px;
+  }
+  .influencerProfileTop {
+    margin: 20px 0;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .influencerProfileTop .user-profile {
+    width: 100%;
+  }
+  .influencerProfileTop span {
+    margin: 10px 20px 0 0;
+    font-size: 16px;
+  }
+  .influencerProfileTop span strong {
+    display: block;
+  }
+  .influencerProfileTabs .custom-tabs .ant-tabs-tab .ant-tabs-tab-btn {
+    padding-right: 0px;
+  }
+  .influencerProfileTabs .custom-tabs .ant-tabs-tab + .ant-tabs-tab {
+    margin-left: 20px;
+  }
+  .influencerProfileTabs .custom-tabs.ant-tabs .ant-tabs-nav {
+    margin-bottom: 15px;
+  }
+  .currentBalance h2 {
+    font-size: 20px;
+  }
+  .currentBalance span {
+    font-size: 14px;
+  }
+  .influencersTabDetail {
+    margin-top: 20px;
+  }
+  .influencersTabDetail h3 {
+    font-size: 16px;
+  }
+  .influencersTabList li {
+    padding: 10px 0;
+  }
+  .influencersTabList li .transactionSgd {
+    padding-right: 10px;
+  }
+  .influencersTabList .transactionSgd h5 {
+    font-size: 14px;
+  }
+  .influencersTabList li .transactionDate {
+    font-size: 14px;
+    white-space: nowrap;
+    padding-right: 0px;
+  }
+  .requestsTab .influencersTabList li {
+    padding: 0 0 10px 0;
+    margin-bottom: 10px;
+  }
+  .requestsTab .influencersTabList li .withdrawalRequest {
+    padding-right: 10px;
+  }
+  .requestsTab .influencersTabList li .withdrawalRequest h5 {
+    font-size: 14px;
+  }
+  .requestsTab .requestsAction a + a {
+    margin-left: 10px;
+  }
+  .requestsTab .requestsAction a {
+    font-size: 13px;
+  }
+  .campaignTable {
+    margin-top: 0px;
+    padding-right: 0px;
+  }
+  .transactionHistory {
+    margin: 0px;
+    padding: 0px;
+  }
+  .influencerProfileTabs .requestsTab {
+    margin-top: 0px;
+  }
+  .campaignViewDetail {
+    padding: 20px;
+  }
+  .campaignViewHead {
+    flex-direction: column;
+    text-align: center;
+  }
+  .campaignViewHeadLeft h5 {
+    font-size: 16px;
+  }
+  .campaignViewHeadLeft label {
+    display: block;
+  }
+  .campaignViewHeadLeft ul {
+    display: inline-block;
+  }
+  .campaignViewHeadRight {
+    padding: 20px 0 0 0;
+  }
+  .campaignViewHeadRight h2 {
+    font-size: 20px;
+  }
+  .campaignRequirements {
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .postDescription {
+    padding-right: 0px;
+  }
+  .postedDetailRight {
+    padding: 20px 0 0 0;
+    margin-top: 20px;
+  }
+  .postedDetailRight::after {
+    width: 100%;
+    height: 2px;
+    top: 0px;
+    left: 0px;
+  }
+  .postedDetail {
+    min-height: inherit;
+  }
+  .postedDetail .stepNumber {
+    padding-right: 0px;
+  }
+  .postedContentArea label,
+  .postedContentArea p {
+    padding-left: 0px;
+  }
+  .postDescription h2,
+  .postDescription .form-group h3,
+  .customSwitch label {
+    font-size: 14px;
+  }
+  .taskPost .form-group textarea.form-control {
+    font-size: 14px;
+    line-height: normal;
+    padding: 6px 12px !important;
+  }
+  .postSwitch .customSwitch {
+    margin-bottom: 20px;
+  }
+  .taskPostBtn {
+    margin-top: 20px;
+    justify-content: center !important;
+  }
+  .taskPostBtn .btn {
+    min-width: 110px;
+    height: 45px;
+  }
+  .taskPostBtn .btn + .btn {
+    margin-left: 15px;
+  }
+  .btnChooseTasks .btn + .btn {
+    margin-left: 15px;
+  }
+  .createTaskContent {
+    padding: 20px;
+  }
+  .btnChooseTasks .btn-default-white {
+    min-width: 110px;
+    height: 45px;
+  }
+  .btnChooseTasks {
+    margin-top: 20px;
+  }
+  .taskview-content .topRated-full {
+    padding-left: 0px;
+  }
+  .postItem.step2 {
+    margin-bottom: 40px;
+  }
+  .historyList li .rating-date .rating svg {
+    font-size: 16px;
+  }
+  .historyList li .rating-date span {
+    font-size: 14px;
+  }
+  .merchantName h2 {
+    font-size: 16px;
+  }
+  .merchantName p {
+    font-size: 14px;
+  }
+  .merchantsListLi h3 {
+    font-size: 14px;
+  }
+  .merchantsListLi label {
+    font-size: 13px;
+  }
+  .authForm h2 {
+    font-size: 20px;
+  }
+  .authSocialBtn .btn {
+    padding: 5px;
+    justify-content: center;
+  }
+  .signupForm .pr-9 {
+    padding-right: 15px;
+  }
+  .signupForm .pl-9 {
+    padding-left: 15px;
+  }
+  .signupForm .authSocialBtn {
+    border-top: 1px solid #f2f2f2;
+    border-left: 0px;
+    padding: 20px 0 0 0;
+    margin-top: 20px;
+    height: auto;
+  }
+}
+@media (max-width: 374px) {
+  .influencerHistory .custom-tabs .ant-tabs-tab-btn {
+    font-size: 11px;
+  }
+  .requestsTab .influencersTabList li .withdrawalRequest {
+    flex: 1;
+  }
+  .requestsTab .influencersTabList li .requestsAction {
+    flex: 1;
+    text-align: right;
+  }
+  .taskPostBtn .btn {
+    min-width: 110px;
+    height: 45px;
+  }
+  .floating-btns .btn {
+    font-size: 14px;
+    padding: 11px 6px;
+  }
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) and (orientation: portrait) {
+  .post-detail .post-buttons .btn.btn-transparent {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  .post-detail .post-buttons {
+    margin-top: 20px;
+  }
+  .rate-followers-detail {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 0;
+  }
+  .rate-followers-detail .rate-followers {
+    margin-bottom: 10px;
+  }
+  .rated-user-profile {
+    flex-direction: column;
+  }
+  .influencerBtn {
+    margin-top: 10px;
+    padding-right: 0px;
+  }
+  .selectTask .ant-checkbox-wrapper {
+    width: 100%;
+    height: 48px;
+  }
+}
